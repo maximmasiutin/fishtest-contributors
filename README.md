@@ -4,3 +4,5 @@ It is updated by @maximmasiutin (Maxim Masiutin) to skip the first column (rank 
 
 Initial version is at https://discord.com/channels/435943710472011776/900771437177094156/1211035576514642031
 
+This script produces output as shown at https://github.com/official-stockfish/Stockfish/blob/master/Top%20CPU%20Contributors.txt
+
